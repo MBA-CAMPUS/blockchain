@@ -1,7 +1,7 @@
 # example 빌드 폴더 전체를 무시
 example/
 # .vscode 설정 폴더 무시
-.vscode/
+#.vscode/
 
 
 
