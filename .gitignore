@@ -2,3 +2,5 @@
 example/
 # .vscode 설정 폴더 무시
 .vscode/
+# test_qbft-network, 즉 노드 폴더들 정보 관련 업로드 무시
+test_qbft-network/
